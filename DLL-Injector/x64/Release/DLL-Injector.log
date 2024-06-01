@@ -1,0 +1,8 @@
+﻿  DLL-Injector.cpp
+D:\repos\MyRepos\DLL-Injector\DLL-Injector\DLL-Injector.cpp(108,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  138 of 1846 functions ( 7.5%) were compiled, the rest were copied from previous compilation.
+    94 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DLL-Injector.vcxproj -> D:\repos\MyRepos\DLL-Injector\x64\Release\DLL-Injector.exe
